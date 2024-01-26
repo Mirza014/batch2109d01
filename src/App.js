@@ -9,6 +9,8 @@ function App() {
       
 <Home/>
 <Work/>
+<Asim/>
+
 
     </div>
   );
