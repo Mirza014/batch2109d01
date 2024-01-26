@@ -3,6 +3,9 @@ import './App.css';
 import Home from './components/home';
 
 
+import Urba from './components/urba';
+
+
 import Ibad from './components/ibad';
 
 import Hassan from './components/hassan';
@@ -20,7 +23,11 @@ function App() {
 
 <Home/>
 
+
+<Urba/>
+
 <Hassan/>
+
 
 <Work/>
 <Asim/>
