@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Home from './components/home';
+import Main from './components/main';
 
 
 import Urba from './components/urba';
@@ -22,6 +23,7 @@ function App() {
 <Ibad/>
 
 <Home/>
+<Main/>
 
 
 <Urba/>
